@@ -9,10 +9,13 @@
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 
--PHP >= 8.2
--Composer (https://getcomposer.org/)
--Node.js and npm (https://nodejs.org/)
--MySQL database
+1.PHP >= 8.2
+
+2.Composer (https://getcomposer.org/)
+
+3.Node.js and npm (https://nodejs.org/)
+
+4.MySQL database
 
 ### Steps
 1.Clone the repository
